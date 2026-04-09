@@ -14,7 +14,6 @@ I'm an AI Engineer from Telangana, India, focused on building **production-grade
 - 🔭 Currently building: **Taskify Guide Agent** — a modular AI assistant deployed on Google Cloud Run
 - 🤖 Specializing in: **Google Agent Development Kit (ADK)**, OpenAI GPT-4o, LlamaIndex
 - ☁️ Deploying on: **Google Cloud Run** | Vercel | Cloud Functions
-- 📚 Pursuing: **MSc in Data Engineering / Cloud Computing**
 - 💬 Ask me about: AI agents, multi-agent systems, full-stack AI apps, Google Cloud
 - ⚡ Fun fact: I build AI tools that solve real-world problems — from auto-resolving support tickets to beating ATS resume filters
 
