@@ -1,53 +1,58 @@
-<h1 align="center">Hi there, I'm Suram Bhanu Prakash 👋</h1>
-<h3 align="center">AI Engineer • Multi-Agent Systems • Cloud-Deployed Applications</h3>
+<h1 align="center">Hi, I'm Bhanu Prakash 👋</h1>
+<h3 align="center">AI + Full Stack Developer | MERN · LLM · Python · TypeScript | Building AI SaaS & Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+intelligent+AI+agents;Multi-agent+orchestration+with+Google+ADK;LLM-powered+full-stack+apps;Always+shipping%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%2B+Full+Stack+Developer;Building+LLM-powered+agents+%26+AI+SaaS+apps;MERN+%7C+Python+%7C+TypeScript+%7C+Google+Cloud;Always+shipping%2C+always+learning" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 💡 About Me
 
-I'm an AI Engineer from Telangana, India, focused on building **production-grade AI agents** and **intelligent automation systems** using LLMs, multi-agent frameworks, and cloud infrastructure.
+I'm an **AI + Full Stack Developer** from Telangana, India, building intelligent, scalable applications that combine MERN stack expertise with LLM-powered systems and cloud infrastructure.
 
-- 🔭 Currently building: **Taskify Guide Agent** — a modular AI assistant deployed on Google Cloud Run
-- 🤖 Specializing in: **Google Agent Development Kit (ADK)**, OpenAI GPT-4o, LlamaIndex
-- ☁️ Deploying on: **Google Cloud Run** | Vercel | Cloud Functions
-- 💬 Ask me about: AI agents, multi-agent systems, full-stack AI apps, Google Cloud
-- ⚡ Fun fact: I build AI tools that solve real-world problems — from auto-resolving support tickets to beating ATS resume filters
+- 🎓 BCA Graduate — specializing in AI + Full Stack Development
+- 🤖 Building: **AI SaaS platforms**, agentic chatbots, RAG systems & multi-agent workflows
+- 🛠️ Stack: **MERN · Python · TypeScript · LangChain · Google Cloud**
+- 💬 Ask me about: LLM agents, full-stack AI apps, RAG pipelines, Google Cloud deployments
+- ⚡ Fun fact: I build AI tools that solve real problems — from agentic college assistants to ATS-beating resume builders
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [🎓 EduReach — Agentic AI Chatbot](https://github.com/Bhanuprakash2580/EduReach) | AI-powered college assistant with RAG, voice AI & JWT auth | MERN, LangChain, Gemini |
+| [⚡ NxtBuild — AI SaaS App Builder](https://github.com/Bhanuprakash2580/NxtBuild) | Converts prompts into functional web apps with live preview | MERN, LLM APIs |
+| [🔄 AI Code Translator](https://github.com/Bhanuprakash2580/AI-Code-Translator) | LLM-based multi-language code translation & optimization | Python, OpenAI, TypeScript |
+| [🎫 Advanced AI Ticketing System](https://github.com/Bhanuprakash2580/Advanced-AI-Ticketing-System) | GPT-4o auto-triages & resolves support tickets — 7 deployments | TypeScript, OpenAI, PostgreSQL |
+| [📄 AI Resume Builder](https://github.com/Bhanuprakash2580/AI-Powered-Resume-Builder) | Multi-agent ATS-optimized resume generator | JavaScript, OpenAI, React |
+| [🧠 GPT Voice Assistant](https://github.com/Bhanuprakash2580/GPT-Based-Smart-Assistant) | Voice-in, voice-out smart assistant via GPT-4o | Python, OpenAI, SpeechRecognition |
+| [📚 Book Recommender System](https://github.com/Bhanuprakash2580/Book-Recommender-System) | Collaborative filtering recommendation engine | Python, scikit-learn, Streamlit |
+| [🤖 Multi-Agent ADK System](https://github.com/Bhanuprakash2580/Multi-Agent-Orchestration-ADK) | Orchestrated multi-agent workflows using Google ADK | Python, Google ADK, Cloud Run |
+| [❤️ Stroke Risk Predictor](https://github.com/Bhanuprakash2580/ML-Based-Stroke-Risk-Prediction) | ML classifier + Streamlit app for early stroke screening | Python, scikit-learn, Streamlit |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### AI & Machine Learning
+### AI & LLM
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Full-Stack & Cloud
+### Full Stack & Cloud
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## 🏆 Key Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [🎫 Advanced AI Ticketing System](https://github.com/Bhanuprakash2580/Advanced-AI-Ticketing-System) | GPT-4o powered triage & auto-resolution — 7 production deployments | TypeScript, OpenAI, PostgreSQL |
-| [📄 AI Resume Builder](https://github.com/Bhanuprakash2580/AI-Powered-Resume-Builder) | Multi-agent ATS-optimized resume generator | JavaScript, OpenAI, React |
-| [🤖 Multi-Agent ADK System](https://github.com/Bhanuprakash2580/Mulyi-Agent-ADK) | Orchestrated multi-agent workflows using Google ADK | Python, Google ADK |
-| [🧠 GPT Voice Assistant](https://github.com/Bhanuprakash2580/GPT-Based-Smart-Assistant) | Voice-in, voice-out smart assistant via GPT-4o | Python, OpenAI, SpeechRecognition |
-| [❤️ Stroke Risk Predictor](https://github.com/Bhanuprakash2580/ML-Based-Stroke-Risk-Prediction) | ML classifier + Streamlit app for stroke risk prediction | Python, scikit-learn, Streamlit |
-| [🎵 Music Recommender](https://github.com/Bhanuprakash2580/Music-Recommender-System) | Content-based filtering music recommendation engine | Python, Jupyter |
 
 ---
 
@@ -84,4 +89,4 @@ I'm an AI Engineer from Telangana, India, focused on building **production-grade
   <img src="https://komarev.com/ghpvc/?username=Bhanuprakash2580&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-> 💼 **Open to:** AI Engineer roles, Cloud Developer internships, Data Engineering opportunities
+> 💼 **Open to:** AI Engineer roles, Full Stack Developer positions, AI SaaS & LLM-powered product teams
